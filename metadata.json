@@ -1,0 +1,6 @@
+{
+  "name": "Recommy",
+  "description": "Bold, AI-curated matching for business, friendship, and love, analyzing your lifestyle moodboards and matching you based on local vicinity, time, and shared vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
